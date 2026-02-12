@@ -16,7 +16,10 @@ Python-based CLI automation tool built with Netmiko.
 ## Lab Environment
 Tested in EVE-NG with Cisco IOS images.
 
-## Requirements
-- Python 3.x
+## Software & Tools Used
+
+- Python 3
 - Netmiko
-- Sofwares used(EVE-NG, Winscp)
+- EVE-NG
+- Cisco IOS Images
+- WinSCP
