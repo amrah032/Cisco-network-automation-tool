@@ -19,3 +19,4 @@ Tested in EVE-NG with Cisco IOS images.
 ## Requirements
 - Python 3.x
 - Netmiko
+- Sofwares used(EVE-NG, Winscp)
