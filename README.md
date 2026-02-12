@@ -3,7 +3,7 @@
 Python-based CLI automation tool built with Netmiko.
 
 
-![Automation Demo](<img width="711" height="319" alt="Screenshot 2026-02-12 023908" src="https://github.com/user-attachments/assets/c330a80f-28c1-4b58-811c-2bf74374647d" />
+![Automation Demo](Screenshot 2026-02-12 023908.png
 )
 
 ## Features
