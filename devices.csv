@@ -1,0 +1,3 @@
+name,host,device_type,username,password,secret
+SW1,192.168.0.250,cisco_ios,lab1,123,1234
+SW2,192.168.0.251,cisco_ios,lab1,123,1234
