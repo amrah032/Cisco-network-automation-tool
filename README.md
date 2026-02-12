@@ -3,7 +3,7 @@
 Python-based CLI automation tool built with Netmiko.
 
 
-![Automation Demo](Screenshot 2026-02-12 023908.png)
+[Automation Demo](Screenshot 2026-02-12 023908.png)
 
 ## Features
 - Multi-device SSH via CSV inventory
